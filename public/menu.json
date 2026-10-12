@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Kottu Roti",
+    "price": 750,
+    "category": "Mains",
+    "available": true,
+    "description": "Authentic shredded flatbread stir-fried with vegetables, eggs, and aromatic Sri Lankan spices."
+  },
+  {
+    "id": 2,
+    "name": "Fried Rice",
+    "price": 850,
+    "category": "Mains",
+    "available": true,
+    "description": "Fragrant basmati rice wok-tossed with fresh vegetables, egg, and special seasoning."
+  },
+  {
+    "id": 3,
+    "name": "Veg Sub",
+    "price": 600,
+    "category": "Snacks",
+    "available": false,
+    "description": "Freshly toasted submarine bread filled with crisp seasoned garden vegetables and melted cheese."
+  },
+  {
+    "id": 4,
+    "name": "Watalappan",
+    "price": 350,
+    "category": "Dessert",
+    "available": true,
+    "description": "Traditional steamed coconut custard pudding sweetened with jaggery and spiced with cardamom."
+  },
+  {
+    "id": 5,
+    "name": "Iced Milo",
+    "price": 300,
+    "category": "Drinks",
+    "available": true,
+    "description": "Rich, chilled chocolate-malt beverage topped with an extra dusting of chocolate malt powder."
+  }
+]
